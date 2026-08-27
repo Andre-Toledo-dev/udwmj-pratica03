@@ -1,12 +1,12 @@
 #soma,
-#subtraçao,
-#multiplicaçao,
+#subtracao,
+#multiplicacao,
 #divisao,
 #resto {
     font-size: 1.5rem;
-    font-family: Arial;
+    font-family: Verdana;
     padding: 1rem;
-    background-color: #f0f0f085;
+    background-color: #ffea66
 }
 
 #soma{
@@ -33,6 +33,6 @@
     font-size: 1.5rem;
     font-family: 'Verdana';
     padding: 1rem;
-    color: rgb(133, 2, 35);
-    background-color: rgb(204, 175, 9);
+    color: #a0a0a0;
+    background-color: #515151;
 }
